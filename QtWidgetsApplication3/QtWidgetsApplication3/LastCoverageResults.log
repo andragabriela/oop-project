@@ -1,0 +1,21 @@
+[2022-04-23 18:35:15] [info] Start Program:
+Path:"C:\Users\Andra Ursa\Desktop\QtWidgetsApplication3\x64\Debug\QtWidgetsApplication3.exe"
+Arguments:-qmljsdebugger=file:{08943FB2-055C-47E6-BE38-B4664C214D14},block 
+Working directory: "C:\Users\Andra Ursa\Desktop\QtWidgetsApplication3\QtWidgetsApplication3\"
+Modules: Selected: C:\Users\Andra Ursa\Desktop\QtWidgetsApplication3\x64\Debug\QtWidgetsApplication3.exe Excluded: 
+Sources: Selected: C:\Users\Andra Ursa\Desktop\QtWidgetsApplication3\QtWidgetsApplication3 Excluded: 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: Binary C:\Users\Andra Ursa\AppData\Local\Temp\o24vhkfs.zm2 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+Substitute pdb source paths: 
+
+[2022-04-23 18:35:15] [info] Module: C:\Users\Andra Ursa\Desktop\QtWidgetsApplication3\x64\Debug\QtWidgetsApplication3.exe is selected because it matches selected pattern: C:\Users\Andra Ursa\Desktop\QtWidgetsApplication3\x64\Debug\QtWidgetsApplication3.exe
+[2022-04-23 18:35:15] [info] ----------------------------------------------------
+[2022-04-23 18:35:15] [info] Coverage binary generated in file: C:\Users\Andra Ursa\AppData\Local\Temp\o24vhkfs.zm2
+[2022-04-23 18:35:15] [info] ----------------------------------------------------

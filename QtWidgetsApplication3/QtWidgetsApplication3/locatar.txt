@@ -1,0 +1,6 @@
+1,Andra,50,ap cu 2 camere
+2,Gabi,90,ap cu 3 camere
+3,Andra,34,garsoniera
+4,Andra-Gabriela,50,gheorgheni
+5,Gabriela,100,ap cu 4 camere
+8,GabiA,92,ap cu 3 camere
